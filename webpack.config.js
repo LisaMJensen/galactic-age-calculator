@@ -17,7 +17,7 @@ module.exports = {
     new UglifyJsPlugin({ sourceMap: true }),
     new CleanWebpackPlugin(['dist']),
     new HtmlWebpackPlugin({
-      title: 'euler-multiples',
+      title: 'glactic-age-calculator',
       template: './src/index.html',
       inject: 'body'
     })
