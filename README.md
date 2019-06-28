@@ -26,11 +26,11 @@ _With any questions or concerns, please reach out to Lisa Jensen_
 
 ## Technologies Used
 
-_JavaScript_
-_JQuery_
-_Node_
-_npm_
-_webpack_
+* _JavaScript_
+* _JQuery_
+* _Node_
+* _npm_
+* _webpack_
 
 
 ### License
